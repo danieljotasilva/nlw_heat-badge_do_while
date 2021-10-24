@@ -1,7 +1,7 @@
 const LinksSocialMedia = {
   github: "danieljotasilva",
   youtube: "colodedeus",
-  facebook: "dj.silva23",
+  facebook: "danieljotasilva",
   instagram: "danieljotasilva",
   twitter: "danieljotasilva",
 };
