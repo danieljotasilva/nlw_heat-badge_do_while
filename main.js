@@ -1,9 +1,9 @@
 const LinksSocialMedia = {
   github: "danieljotasilva",
-  youtube: "rocketseat",
+  youtube: "colodedeus",
   facebook: "dj.silva23",
-  instagram: "dnwuzhere",
-  twitter: "danieljsilva23",
+  instagram: "danieljotasilva",
+  twitter: "danieljotasilva",
 };
 
 function changeSocialMediaLinks() {
