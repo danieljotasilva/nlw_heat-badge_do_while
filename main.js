@@ -22,7 +22,7 @@ function getGitHubProfileInfos() {
   fetch(url)
     .then((response) => response.json())
     .then((data) => {
-      document.title = data.name + " - Do-While 2021"  
+      document.title = data.name + " - DoWhile 2021"  
       userName.textContent = data.name;
       userBio.textContent = data.bio;
       userLink.href = data.html_url;
