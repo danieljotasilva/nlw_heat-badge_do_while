@@ -105,10 +105,13 @@ ul {
   }
   .container {
     background: url(images/tag-dn.svg) no-repeat center/cover;
-    padding: 1rem 2rem;
-    min-width: 358;
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    margin-left: -179px;    
+    padding: 1rem;
+    max-width: 358px;
     width: 100vw;
-    min-height: 680px;
-    height: 100vh;
-  }
+    max-height: 680px;
+    }
 }
