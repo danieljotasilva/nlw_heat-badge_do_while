@@ -7,8 +7,7 @@ body {
   --black: hsl(240, 6%, 13%);
   --grey: hsl(240, 9%, 89%);
 
-  height: 100vh;
-  width: 100vw
+  height: 100%;
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
 }
