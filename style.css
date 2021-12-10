@@ -100,7 +100,7 @@ ul {
   main {
   background: url(images/background_desktop-dn.svg) no-repeat center/cover;
   width: 100vw;
-  min-height: 820px;
+  min-height: 720px;
   height: 100vh;
   }
 }
