@@ -98,9 +98,16 @@ ul {
 /* Responsive =====================*/
 @media (min-width: 800px){
   main {
-  background: url(images/background_desktop-dn.svg) no-repeat center/cover;
-  width: 100vw;
-  min-height: 820px;
-  height: 100vh;
+    background: url(images/background_desktop1-dn.svg) no-repeat center/cover;
+    width: 100vw;
+    min-height: 820px;
+    height: 100vh;
+  }
+  .container {
+    background: url(images/tag-dn.svg) no-repeat center/cover;
+    min-width: 358;
+    width: 100vw;
+    min-height: 680px;
+    height: 100vh;
   }
 }
