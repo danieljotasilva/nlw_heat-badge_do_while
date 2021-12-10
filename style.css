@@ -105,6 +105,7 @@ ul {
   }
   .container {
     background: url(images/tag-dn.svg) no-repeat center/cover;
+    padding: 1rem 2rem;
     min-width: 358;
     width: 100vw;
     min-height: 680px;
