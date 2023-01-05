@@ -19,8 +19,8 @@ body {
 
 main {
   background: url(images/background-dn.svg) no-repeat center/cover;
-  width: 100vw;
-  min-height: 812px;
+  width: 100%;
+  min-height: 820px;
   height: 100vh;
 }
 
